@@ -1,0 +1,31 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Ignored default folder with query files
+/queries/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# IntelliJ IDEA
+.idea/
+*.iml
+# Python virtual environment
+venv/
+.venv/
+env/
+.env
+# Python cache / bytecode
+__pycache__/
+*.py[cod]
+
+# Test / coverage output
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
