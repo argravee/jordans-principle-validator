@@ -7,7 +7,7 @@ This project focuses on identifying **missing, inconsistent, or unclear informat
 
 ## Overview
 
-Services responsible for processing Jordan’s Principle requests continue to face persistent backlogs, even following the Canadian Human Rights Tribunal (CHRT) orders intended to ensure timely access to services. Jordan’s Principle applications typically require multiple supporting documents—such as application forms, professional assessments, invoices, consent forms, and letters of support. When submissions are incomplete, inconsistent, or unclear, requests are often returned for clarification, resulting in avoidable back-and-forth and compounding processing delays.
+Services responsible for processing Jordan’s Principle requests continue to face persistent backlogs, even following the Canadian Human Rights Tribunal (CHRT) orders intended to ensure timely access to services. Jordan’s Principle applications typically require multiple supporting documents such as application forms, professional assessments, invoices, consent forms, and letters of support. When submissions are incomplete, inconsistent, or unclear, requests are often returned for clarification, resulting in avoidable back-and-forth and compounding processing delays.
 
 This tool is designed to assist applicants and service providers by identifying missing or inconsistent information at submission time, reducing administrative friction and supporting faster, more accurate request processing.
 
