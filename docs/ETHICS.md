@@ -7,7 +7,7 @@ It does not make decisions, determinations, or recommendations regarding eligibi
 
 All outputs are advisory and intended to support human review.
 
----
+
 
 ## Human-in-the-Loop Commitment
 
@@ -16,7 +16,7 @@ All outputs are advisory and intended to support human review.
 - All findings are framed as potential issues, not judgments
 - Humans remain the final decision-makers at all times
 
----
+
 
 ## Non-Decisional Design
 
@@ -28,7 +28,6 @@ The system explicitly avoids:
 
 Validation logic is limited to detecting **missing, inconsistent, or unclear information** that commonly causes processing delays.
 
----
 
 ## Privacy & Data Handling Assumptions (MVP)
 
@@ -41,14 +40,13 @@ For the Phase-1 MVP:
 
 Synthetic or anonymized documents are used for testing and demonstration.
 
----
+
 
 ## Independence & Non-Affiliation
 
 This project is an independent research and engineering effort.
 It is **not affiliated with, endorsed by, or representative of** Indigenous Services Canada or the Government of Canada.
 
----
 
 ## Ethical Design Principle
 
