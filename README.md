@@ -61,4 +61,6 @@ Humans remain the final decision-makers.
 ### Explainability First
 Every finding includes a plain-language rationale explaining *why* it may affect processing.
 
+Ethical considerations: This project includes an ETHICS.md document outlining guiding principles around privacy, data minimization, transparency, non-substitution of human decision-making, and respect for Indigenous rights and self-determination. The tool is designed to assist, not replace, human review.
+
 
