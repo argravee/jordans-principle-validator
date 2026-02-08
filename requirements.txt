@@ -1,0 +1,11 @@
+fastapi~=0.128.3
+pip~=25.3
+pydantic~=2.12.5
+starlette~=0.52.1
+anyio~=4.12.1
+annotated-types~=0.7.0
+uvicorn
+pytest
+httpx
+python-multipart
+pdfplumber
