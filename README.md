@@ -1,6 +1,6 @@
 # Jordan’s Principle Document Validator
 
-An **NLP-assisted, rule-based system** for *pre-submission validation* of completed Jordan’s Principle application documents.
+A user facing, **NLP-assisted, rule-based system** for *pre-submission validation* of completed Jordan’s Principle application documents.
 
 This project focuses on identifying **missing, inconsistent, or unclear information** that commonly causes administrative delays **without making eligibility or approval decisions**.
 
@@ -64,4 +64,7 @@ Every finding includes a plain-language rationale explaining *why* it may affect
 ### Ethical considerations
 This project includes an ETHICS.md document outlining guiding principles around privacy, data minimization, transparency, non-substitution of human decision-making, and respect for Indigenous rights and self-determination. The tool is designed to assist, not replace, human review.
 
+## Post MVP
+A future, institution-facing version of this system is intended to extend beyond submission-level validation and into systemic process analysis. In this phase, the platform would incorporate a Delay & Failure Pattern Analyzer designed to identify, measure, and aggregate structural causes of processing delays across cases.
 
+To ensure that institutional diagnostics remain consistent, auditable, and non-arbitrary, future versions of the system are planned to incorporate formal policy modeling and verification using Lean.
