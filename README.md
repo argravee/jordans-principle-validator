@@ -43,10 +43,8 @@ These exclusions are **intentional** and enforced by design.
 
 ## Design Principles
 
-### Validation, Not Evaluation
+### Presence-Based Validation
 The system checks **whether required information appears to be present**, not whether it is correct or sufficient.
-
-### Presence-Based Signals
 Internal reasoning is limited to boolean facts such as:
 - “Is a service referenced?”
 - “Is a date present?”
